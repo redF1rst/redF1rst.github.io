@@ -30,7 +30,7 @@ Markdown还是要学习下的，今天就先抄别人的文档。
 大佬说的优点：
 
 >其优点非常明显：
-
+>
 >* **Markdown** 带来的优雅写作体验
 >* 非常熟悉的 Git workflow ，**Git Commit 即 Blog Post**
 >* 利用 GitHub Pages 的域名和免费无限空间，不用自己折腾主机
