@@ -25,7 +25,7 @@ tags:
 # 正文
 Markdown还是要学习下的，今天就先抄别人的文档。
 
-对了Blog模板是Hux大佬的，几千的fork，刷B站看到的Github Pages建站视频才知道
+对了Blog模板是Hux(黄玄)大佬的，几千的fork，刷B站看到的Github Pages建站视频才知道
 
 大佬说的优点：
 
